@@ -1,0 +1,35 @@
+
+.but-spc{
+    margin-right: 20px !important;
+}
+
+
+#R3{
+    background: rgba(255,255,255,0.2);
+    box-shadow: 20px 20px 40px -6px rgba(0,0,0,0.2);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: inset 0px 0px 22px 10px rgba(0,0,0,0.1);
+    color: rgb(250, 250, 250);
+
+}
+
+#R4{
+    background: rgba(255,164,164,0.2);
+    box-shadow: 20px 20px 40px -6px rgba(0,0,0,0.2);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(20px);   
+    box-shadow: inset 0px 0px 22px 10px rgba(0,0,0,0.1);
+    color: rgb(250, 250, 250);
+
+}
+
+.fs-5{
+    color: rgb(233, 233, 233);
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
+.fs-6{
+    color: rgb(231, 231, 231);
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
